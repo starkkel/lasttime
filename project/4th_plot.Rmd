@@ -1,0 +1,14 @@
+---
+title: "Plot Example 4"
+output: html_document
+---
+
+# Painting Dimensions by cm
+
+```{r, echo = F, message = F}
+library(forcats)
+library(ggplot2)
+plot4 <- readRDS("img/plot4.rds")
+
+plot4
+```

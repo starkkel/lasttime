@@ -1,0 +1,12 @@
+---
+title: "Plot Example 2"
+output: html_document
+---
+
+```{r, echo = F, message = F}
+library(forcats)
+library(ggplot2)
+plot2 <- readRDS("img/plot2.rds")
+plot2
+```
+

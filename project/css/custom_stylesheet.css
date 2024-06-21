@@ -1,0 +1,12 @@
+/* Add custom styles here */
+
+/* Uncomment me to change the body text to be in Palatino! */
+
+
+body {
+  font-family: "Optima";
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Optima";
+}

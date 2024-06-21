@@ -1,0 +1,27 @@
+name: "About Me Site"
+output_dir: 'www_out'
+navbar:
+  title: "Kellen Stark's Neat Site of Things"
+  right:
+    - text: OHSU
+      href: "https://www.ohsu.edu"
+    - text: 1st Plot
+      href: a_second_page.html
+    - text: 2nd Plot
+      href: 2nd_plot.html
+    - text: 3rd Plot
+      href: 3rd_plot.html
+    - text: 4th Plot
+      href: 4th_plot.html
+    - text: Project 
+      href: project_plot.html
+    - text: Presentation
+      href: presentation.html
+    - text: Bonus
+      href: Bonus.html
+output:
+  html_document:
+    theme: bootstrap
+    lib_dir: site_libs
+    self_contained: no
+    css: "css/custom_stylesheet.css"

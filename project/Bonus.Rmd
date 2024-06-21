@@ -1,0 +1,8 @@
+---
+title: "Bonus"
+output: html_document
+---
+
+### I created a plotly version where it would highlight the protein when you moused over it. Unfortunately could not get it to work.
+
+<iframe src="./img/volcanoplot_TIBIA.pdf" width="100%" height="600px"></iframe>
